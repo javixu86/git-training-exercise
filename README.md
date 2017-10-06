@@ -8,3 +8,4 @@ ex5, 5
 
 ex6, 6 (feature/exercise3)
 JAD
+ex7, 7
